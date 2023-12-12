@@ -1,0 +1,25 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    jsmith:
+      email: jsmith@gmail.com
+      name: John Smith
+      password: $2b$12$B5S7QsKXI9R/Whvr70nAJeklTM2PZbsqZyHZ9qsH7TdcJIcUCKWke
+    pxiao:
+      email: perry.xiao@lsbu.ac.uk
+      name: Perry Xiao Gmail
+      password: $2b$12$4D69IA95vesNaZM8lMbCDuZVoGtkKnqorABHrQwuiqi442nAdxUU6
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$AUGY15NYovRXaZx3EM1hKefYuGMZM0Xb8gKj.EcPuysOFsHwogsam
+    xiaop:
+      email: xiaop@lsbu.ac.uk
+      name: Dr Perry Xiao
+      password: $2b$12$khDyAlqr347iVDDOwniHGejyY1RfoYy1Tn7csUOaIIkmKKAME2tk2
+preauthorized:
+  emails:
+  - perry.xiao@gmail.com
